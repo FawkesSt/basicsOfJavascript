@@ -38,6 +38,8 @@ console.log(hello);
 
 We also declared a const variable. This type of variable can not be redeclared or reassigned
 
+> Const variables always have to have a value on its declaration
+
 ```javascript
 const piNumber = 3.14;
 console.log(piNumber);
