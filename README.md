@@ -1,1 +1,1 @@
-# JsStudy
+# Basics of javascript
