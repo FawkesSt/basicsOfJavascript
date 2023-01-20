@@ -5,4 +5,4 @@ const user = {
 
 }
 
-user.age; // Acess the age inside the user object
+user.age; // Access the age inside the user object
