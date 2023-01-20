@@ -10,7 +10,7 @@ console.log(wallet * 4);
 console.log(wallet % 2);
 console.log(wallet ** 2);
 
-Increment operator
+// Increment operator
 
 wallet++
 console.log(wallet);
