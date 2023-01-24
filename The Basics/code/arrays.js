@@ -12,3 +12,4 @@ console.log(users[1] + " I lov u");
 console.log(users.length); // This method for example brings us the size of the array
 
 console.log(users.splice(4,4));
+
