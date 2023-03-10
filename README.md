@@ -1,6 +1,6 @@
 # Basics of javascript
 
-### Classes
+### Class notes
 
 ------------
 
