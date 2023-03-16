@@ -1,4 +1,4 @@
-# Basics of javascript
+# Basics of JavaScript
 
 ### Class notes
 
