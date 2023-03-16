@@ -1,7 +1,8 @@
 # Reference of command lines
 
-| git --version | lists the Git version |
+| command | what it does |
 | --- | --- |
+| `git --version` | lists the Git version |
 | `git config --global http://user.name/ "Name Surname"` `git config --global user.email example@email.com` | configures the username and email on Git (only necessary on the first time you use it) |
 | `git config --list` | list all variables set in config file, along with their values (the username and email are listed here) |
 | `pwd` (print working directory) | returns the path to which directory you are working in |
